@@ -1,6 +1,3 @@
-ll
-history | less
-less moving_around.txt
 subl doesnotexist.txt
 subl moving_around.txt
 nano moving_around.txt
