@@ -1,0 +1,274 @@
+ll
+history | less
+less moving_around.txt
+subl doesnotexist.txt
+subl moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+ls
+history > moving_around.txt
+cd -> change directory to home directory
+cd Music -> change directory to Music under Home
+cd -> change directory to home directory
+pwd -> print working directory - shows what directory you are working in
+history | sort | less -> puts history in a new document and sorts it
+history | sort -> sorts history in alphabetical order
+man man -> looks at the manual for the manual command
+ls . -> list items in current working directory
+ls . -> list items in current working directory
+ls ~ -> list items in home directory
+cd .. -> change directory to previous directory
+cd ../../Pictures
+cd Music/iTunes
+cd ../.. -> change directory to two previous directories
+cd iTunes -> change directory to home->music->itunes
+ls .. -> list items in previous directory
+cd House/ -> change directory
+cd Young\ Buffalo/ -> change directory
+cd iTunes\ Music/ -> change directory
+cd music -> change directory
+ls /Applications/"Sublime Text 2.app" -> list items in this directory
+ls /Applications/Sublime\ Text\ 2.app/ -> list items in this directory
+la
+man ls
+ls -x
+ls X
+ls -X
+ls -a
+cd -> change directory to home directory
+ls -rtl
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+git config --global user.email 'usetheforce10@gmail.com'
+git config --global user.name 'Luke Gabrieli'
+git --version
+uname
+which uname
+curl -fsSL http://git.io/QxUaOQ | sh
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew update
+brew doctor
+subl ~/.
+ls -Code Fellows/
+ls Code Fellows
+ls Applications
+ls -G
+ls-G
+ln
+hello
+curl -fsSL http://git.io/7UHtNA | sh
+curl-fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -l video.mpeg
+cd ~/Desktop/linuxtutorialwork
+cd ~/Desktop
+clear
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+cd Macintosh HD
+..
+cd Applications
+cd ~/Applications
+open -a Finder /usr/bin
+ln -s "~/Desktop/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ls *.mpeg
+ls v*
+touch video.mpeg
+ls g*
+ls f*
+rm -r backups
+rm backups
+rmdir backups
+rm example1
+mv linuxtutorialwork/testdir ~/Desktop/linuxtutorialwork/fred
+mkdir linuxtutorialwork/testdir
+cd..
+mv foo foo3
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example1 barney
+touch example1
+mkdir linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/foo/bar/linuxtutorialwork
+rmdir linuxtutorialwork/foo/bar/linuxtutorialwork/foo
+cd Desktop
+ls linuxtutorialwork/foo
+mkdir -pv linuxtutorialwork/foo/bar
+cd linuxtutorialwork/foo/bar
+mkdir -p linuxtutorialwork/foo/bar
+mkdir linuxtutorialwork
+man
+man -k image
+cd Desktop/
+cd Code Fellows/
+ls music
+ls documents
+echo $SHELL
+echo
+curl -s -0 \https://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain
+curl -s -0
+get
+git credential-osxkeychain
+yes
+git credential-osckeychain
+git config --list
+git config --global core.editor sublime
+git config --global user.email "usetheforce10@gmail.com"
+git config --global user.name "Luke Gabrieli"
+git config --global user.name "Luke"
+subl .
+cd code fellows
+mkdir code fellows
+open demo.html
+user@bash: pwd /home/ryan
+user@bash: pwd
+/Volumes/ReCycle\ 2.0/Cracked\ by\ The\ Blade™ ; exit;
+ll
+history > moving_around.txt
+history | less
+less moving_around.txt
+subl doesnotexist.txt
+subl moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+ls
+cd
+cd Music
+cd
+pwd
+history | less | sort
+history | sort | less
+history | sort
+man man
+history r
+history -r
+history
+ls .
+ls .
+ls ~
+cool
+cd ..
+cd ../../Pictures
+cd Music/iTunes
+cd ../..
+cd iTunes
+ls ..
+cd House/
+cd H
+cd Young\ Buffalo/
+cd iTunes\ Music/
+cd music
+ls /Applications/"Sublime Text 2.app"
+ls /Applications/Sublime\ Text\ 2.app/
+la
+man ls
+ls -x
+ls X
+ls -X
+ls -a
+cd /
+ls -rtl
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+git config --global user.email 'usetheforce10@gmail.com'
+git config --global user.name 'Luke Gabrieli'
+git --version
+uname
+which uname
+curl -fsSL http://git.io/QxUaOQ | sh
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew update
+brew doctor
+subl ~/.
+ls -Code Fellows/
+ls Code Fellows
+ls Applications
+ls -G
+ls-G
+ln
+hello
+curl -fsSL http://git.io/7UHtNA | sh
+curl-fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -l video.mpeg
+cd ~/Desktop/linuxtutorialwork
+cd ~/Desktop
+clear
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+cd Macintosh HD
+..
+cd Applications
+cd ~/Applications
+open -a Finder /usr/bin
+ln -s "~/Desktop/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ls *.mpeg
+ls v*
+touch video.mpeg
+ls g*
+ls f*
+rm -r backups
+rm backups
+rmdir backups
+rm example1
+mv linuxtutorialwork/testdir ~/Desktop/linuxtutorialwork/fred
+mkdir linuxtutorialwork/testdir
+cd..
+mv foo foo3
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example1 barney
+touch example1
+mkdir linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/foo/bar/linuxtutorialwork
+rmdir linuxtutorialwork/foo/bar/linuxtutorialwork/foo
+cd Desktop
+ls linuxtutorialwork/foo
+mkdir -pv linuxtutorialwork/foo/bar
+cd linuxtutorialwork/foo/bar
+mkdir -p linuxtutorialwork/foo/bar
+mkdir linuxtutorialwork
+man
+man -k image
+cd Desktop/
+cd Code Fellows/
+ls music
+ls documents
