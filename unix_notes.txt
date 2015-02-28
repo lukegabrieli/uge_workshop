@@ -29,24 +29,11 @@ cd iTunes\ Music/ -> change directory
 cd music -> change directory
 ls /Applications/"Sublime Text 2.app" -> list items in this directory
 ls /Applications/Sublime\ Text\ 2.app/ -> list items in this directory
-la
-man ls
-ls -x
-ls X
-ls -X
-ls -a
+la -> opens all the files, including hidden files
 cd -> change directory to home directory
-ls -rtl
-ls -rt
-ls -r
-ls -lt
-ls -l
-ls -t
-git config --global user.email 'usetheforce10@gmail.com'
-git config --global user.name 'Luke Gabrieli'
-git --version
-uname
-which uname
+git config --global user.email 'usetheforce10@gmail.com' -> add email to git
+git config --global user.name 'Luke Gabrieli' -> add name to git
+git --version -> check git version
 curl -fsSL http://git.io/QxUaOQ | sh
 echo $PATH
 echo $EDITOR
